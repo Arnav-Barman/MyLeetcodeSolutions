@@ -6,4 +6,5 @@ class Solution {
         return (int)r;
     }
 }
-            
+
+/* Using Newtons method of finding squares */
